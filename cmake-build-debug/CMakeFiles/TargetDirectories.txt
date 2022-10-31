@@ -1,0 +1,3 @@
+/mnt/d/Development/CS202/Program2 new-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/Development/CS202/Program2 new-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/Development/CS202/Program2 new-1/cmake-build-debug/CMakeFiles/Program2_new_1.dir

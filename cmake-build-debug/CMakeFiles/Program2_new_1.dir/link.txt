@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Program2_new_1.dir/main.cpp.o CMakeFiles/Program2_new_1.dir/reservation.cpp.o CMakeFiles/Program2_new_1.dir/things.cpp.o  -o Program2_new_1 
